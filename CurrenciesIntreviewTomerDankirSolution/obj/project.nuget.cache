@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qHt5VHEGqy7PP17TCq+MQdum4KqiFlzFsNgt4tJNxgW4qqcaGdTYpvv3/7hjSzUvus+X4uAkVF7rZMTrhlPxfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomer\\source\\repos\\CurrenciesIntreviewTomerDankirSolution\\CurrenciesIntreviewTomerDankirSolution\\CurrenciesIntreviewTomerDankirSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomer\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.6\\microsoft.aspnetcore.jsonpatch.5.0.6.nupkg.sha512",
+    "C:\\Users\\Tomer\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.6.nupkg.sha512",
+    "C:\\Users\\Tomer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Tomer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Tomer\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
